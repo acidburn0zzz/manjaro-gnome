@@ -1,0 +1,155 @@
+### Manjaro Packages
+
+## gnome package group, minus epiphany, because we'll use firefox
+baobab
+empathy
+eog
+#epiphany
+evince
+gdm
+gnome-backgrounds
+gnome-calculator
+gnome-contacts
+gnome-control-center
+gnome-desktop
+gnome-dictionary
+gnome-disk-utility
+gnome-font-viewer
+gnome-icon-theme
+gnome-icon-theme-extras
+gnome-icon-theme-symbolic
+gnome-keyring
+gnome-screenshot
+gnome-session
+gnome-settings-daemon
+gnome-shell
+gnome-shell-extensions
+gnome-system-log
+gnome-system-monitor
+gnome-terminal
+gnome-themes-standard
+gnome-user-docs
+gnome-user-share
+grilo-plugins
+gucharmap
+mousetweaks
+mutter
+nautilus
+sushi
+totem
+tracker
+vino
+xdg-user-dirs-gtk
+yelp
+
+## Gnome Main Packages
+gnome-extra
+gnome-tweak-tool
+gufw # firewall
+manjaro-settings-manager
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+
+## Applications
+firefox
+#thunderbird
+#gimp
+gksu
+gparted
+gvfs-afc
+gvfs-afp
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+manjaro-welcome
+
+## Network
+netctl
+openresolv
+blueman
+
+## Xorg Packages
+inxi
+libdnet
+mesa-demos
+>x86_64 lib32-mesa-demos
+netkit-bsd-finger
+uriparser
+xf86-input-acecad
+xf86-input-aiptek
+xf86-input-evdev
+xf86-input-joystick
+xf86-input-keyboard
+xf86-input-mouse
+xf86-input-synaptics
+xf86-input-void
+xf86-input-wacom
+xinetd
+xorg-server
+xorg-server-utils
+xorg-twm
+xorg-utils
+xorg-xinit
+
+## Artwork
+manjaro-artwork
+plymouth-theme-manjaro-elegant
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+flashplugin
+libdvdcss
+manjaro-alsa
+manjaro-pulse
+
+## Package management
+pamac
+polkit-gnome
+
+## Games
+#steam
+
+## Java
+icedtea-web
+
+## Printing
+###manjaro-printer
+
+## Office
+#abiword
+#gnumeric
+#libreoffice-installer
+###libreoffice-still-en-US
+#libreoffice-still-base
+###libreoffice-still-calc
+#libreoffice-still-draw
+###libreoffice-still-gnome
+###libreoffice-still-impress
+###libreoffice-still-math
+#libreoffice-still-postgresql-connector
+###libreoffice-still-writer
+
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+gcc
+libtool
+m4
+make
+patch
+subversion
+yaourt
