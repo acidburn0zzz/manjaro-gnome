@@ -52,6 +52,8 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 thus
+#lightdm-gtk3-greeter   ### Remember to uncomment gdm above and adjust the DM symlink if using LightDM
+#lightdm-gtk-greeter-settings   ### Remember to uncomment gdm above and adjust the DM symlink if using LightDM
 
 ## Applications
 firefox
